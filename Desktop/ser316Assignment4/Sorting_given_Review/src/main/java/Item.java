@@ -1,1 +1,1 @@
-package main.java;public class Item //final class removed, bug#4{        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+package main.java;public class Item //final class removed, bug#4{        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods        //this class does too little. }
